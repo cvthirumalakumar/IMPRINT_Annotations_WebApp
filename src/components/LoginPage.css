@@ -1,0 +1,16 @@
+.google_button_container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: baseline;
+    flex-wrap: wrap;
+    text-align: center;
+    /* padding-top: 2cm; */
+    font-family: serif;
+}
+
+
+.header {
+    color: #FF5733;
+}
+
